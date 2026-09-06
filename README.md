@@ -2,7 +2,7 @@
 
 I am a recent Computer Science graduate, interested in all aspects in IT but with a deep interest into cybersecurity.
 
-### What I'm doing currently - *updated 05/09/2026*
+### What I'm doing currently - *updated 07/09/2026*
 
 
 As I have graduated, I am continuously learning and improving my skills. Here's a list of what I'm currently doing:
