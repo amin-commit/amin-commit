@@ -1,12 +1,11 @@
 ## Welcome to my profile! 👋
 
-I am a recent Computer Science graduate, interested in all aspects in IT but with a deep interest into cybersecurity.
+I am a recent Computer Science graduate, interested in all aspects in IT but with a deep interest in cybersecurity.
 
-### What I'm doing currently - *updated 07/09/2026*
-
+### What I'm doing currently - *updated 16/09/2026*
 
 As I have graduated, I am continuously learning and improving my skills. Here's a list of what I'm currently doing:
-* TryHackMe (Premium): I'm working towards completing the SOC Level 1 Pathway **(36%)** and the Jr Penetration Tester Pathway **(6%)**. You can view my TryHackMe Profile [here](https://tryhackme.com/p/AminTHM).
+* TryHackMe (Premium): I'm working towards completing the SOC Level 1 Pathway **(36%)** and the Jr Penetration Tester Pathway **(6%)**. As of right now, I'm currently gaining exposure to **Microsoft Sentinel**, and learning how to defend Azure. You can view my TryHackMe Profile [here](https://tryhackme.com/p/AminTHM).
 * FreeCodeCamp (Python): Here, I am aiming to achieve the Python Certification to demonstrate my strong foundation in Python.
 * CCNA / Security+ Certifications: While working towards the CCNA, I am developing an extensive understanding of networking fundamentals. Complimenting it with the Security+, this will help me break through into the Cyber Security field.
 * Operating Systems: I've used MacOS and Windows Operating Systems my entire life, from Windows 7 to Windows 11. Now, I'm learning how to tackle the challenges of running Debian 13 as my main operating system.
